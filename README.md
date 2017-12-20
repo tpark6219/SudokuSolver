@@ -1,4 +1,3 @@
 # SudokuSolver
 
- 4 x 4 Sudoku Solver
- /n Backtracking Algorithm
+ 4 x 4 Sudoku Solver (Backtracking Algorithm)
